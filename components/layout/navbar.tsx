@@ -5,7 +5,7 @@ export default function NavBar() {
         <div className="w-full justify-between flex flex-row px-7 py-10">
             <div className="font-roboto">
                 <Button variant="hollow" className="font-extrabold text-md">
-                    SHADOW OF RACISM
+                    SHADOWS OF RACISM
                 </Button>
             </div>
 

@@ -131,3 +131,8 @@
         @apply font-inter font-normal text-gray-700;
     }
 }
+
+.verticaline {
+    background-color: black;
+    width: 2px;
+}
