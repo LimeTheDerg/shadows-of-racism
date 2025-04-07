@@ -3,8 +3,8 @@ import Logo from "@/components/ui/logo";
 import Button from "@/components/ui/button";
 function App() {
     return (
-        <div className="font-inter flex flex-row justify-center">
-            <div className="flex justify-center content-end h-75 items-center w-1/2">
+        <div className="font-inter flex flex-row justify-center h-85">
+            <div className="flex justify-center content-end items-center w-1/2">
                 <Logo size="65px"/>
             </div>
             <div className="verticaline"></div>
